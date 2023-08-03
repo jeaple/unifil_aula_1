@@ -1,3 +1,5 @@
+Alteração
+Alteração 2
 <?php
     // File: welcome.php
     // TODO: Start session tracking and redirect user back to the login form
